@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px 40px;
+  background: #f4f4f4;
+  color: #222;
+}
+h1 small {
+  font-size: 14px;
+  color: gray;
+}
+.box {
+  background: white;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+button {
+  background: #2d6cdf;
+  color: white;
+  border: none;
+  padding: 7px 12px;
+  margin: 3px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background: #1b4fb0;
+}
+input, textarea, select {
+  display: block;
+  margin: 5px 0;
+  padding: 6px;
+  width: 400px;
+}
+textarea {
+  height: 60px;
+}
+select {
+  display: inline-block;
+  width: 250px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 6px;
+  text-align: left;
+  font-size: 14px;
+}
+th {
+  background: #eee;
+}
+td button {
+  font-size: 12px;
+  padding: 4px 6px;
+}
+pre {
+  background: #fafafa;
+  border: 1px solid #eee;
+  padding: 10px;
+  white-space: pre-wrap;
+  font-size: 13px;
+}
+.two-col {
+  display: flex;
+  gap: 10px;
+}
+.two-col pre {
+  flex: 1;
+}
+.logs {
+  max-height: 300px;
+  overflow: auto;
+  font-size: 12px;
+}
+.ok { color: green; font-weight: bold; }
+.err { color: red; font-weight: bold; }
+.high { background: #d4f7d4; }
+.low { background: #fde2e2; }
+#loading {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background: orange;
+  padding: 10px;
+  border-radius: 4px;
+}
+.email {
+  background: #fffbe6;
+  border: 1px solid #f0e0a0;
+  padding: 10px;
+  margin-top: 10px;
+}
