@@ -1,0 +1,98 @@
+[
+  {
+    "product": "BookEasy",
+    "company": "SmileCare Dental Clinic",
+    "website": "smilecare-dental.test",
+    "contact_name": "Dr. Anjali Kulkarni",
+    "contact_role": "Owner / Chief Dentist",
+    "email": "anjali@smilecare-dental.test",
+    "industry": "Dental clinic",
+    "employees": 12,
+    "location": "Pune, Maharashtra",
+    "page_text": "[home] SmileCare Dental Clinic, Kothrud Pune. Painless root canal, braces, implants and kids dentistry. Call us to book an appointment: 020-1234567 (10am to 8pm). Walk-ins welcome but there may be a long wait on Saturdays. [about] Started by Dr. Anjali Kulkarni in 2014. We now have 3 dentists and treat over 40 patients a day. New location opening soon in Baner! [careers] We're hiring a front desk receptionist who can manage phone bookings and patient records in Excel."
+  },
+  {
+    "product": "BookEasy",
+    "company": "Glow Unisex Salon",
+    "website": "glowsalon.test",
+    "contact_name": "Rohit Sharma",
+    "contact_role": "Founder",
+    "email": "rohit@glowsalon.test",
+    "industry": "Salon",
+    "employees": 18,
+    "location": "Bangalore, Karnataka",
+    "page_text": "[home] Glow Unisex Salon - haircuts, colour, bridal makeup, spa. 2 branches in Indiranagar and HSR Layout. For appointments WhatsApp us or call. [about] Founded by Rohit Sharma in 2019. We are expanding to Whitefield next year. Our stylists are trained in Mumbai. [services] Bridal packages need booking 2 weeks in advance. Too many missed calls during wedding season, please WhatsApp instead."
+  },
+  {
+    "product": "BookEasy",
+    "company": "FitZone Physiotherapy",
+    "website": "fitzonephysio.test",
+    "contact_name": "Neha Desai",
+    "contact_role": "Clinic Manager",
+    "email": "neha@fitzonephysio.test",
+    "industry": "Physiotherapy clinic",
+    "employees": 7,
+    "location": "Mumbai, Maharashtra",
+    "page_text": "[home] FitZone Physiotherapy, Andheri West. Sports injury, back pain, post surgery rehab. Book online using our booking page, get reminders on WhatsApp. [about] We use Practo and our own booking system since 2022. Team of 4 physiotherapists."
+  },
+  {
+    "product": "BookEasy",
+    "company": "Sharma Hardware & Sanitary",
+    "website": "sharmahardware.test",
+    "contact_name": "Vikas Sharma",
+    "contact_role": "Owner",
+    "email": "vikas@sharmahardware.test",
+    "industry": "Hardware retail",
+    "employees": 6,
+    "location": "Nagpur, Maharashtra",
+    "page_text": "[home] Sharma Hardware and Sanitary, Sitabuldi Nagpur. Pipes, taps, tiles, paint, tools. Wholesale and retail. [about] Family business since 1988. Stock maintained in register and Excel spreadsheet. GST bills given."
+  },
+  {
+    "product": "StockSaathi",
+    "company": "Sharma Hardware & Sanitary",
+    "website": "sharmahardware.test",
+    "contact_name": "Vikas Sharma",
+    "contact_role": "Owner",
+    "email": "vikas@sharmahardware.test",
+    "industry": "Hardware retail",
+    "employees": 6,
+    "location": "Nagpur, Maharashtra",
+    "page_text": "[home] Sharma Hardware and Sanitary, Sitabuldi Nagpur. Pipes, taps, tiles, paint, tools. Wholesale and retail. [about] Family business since 1988. Stock maintained in register and Excel spreadsheet. GST bills given. [careers] We are hiring a billing staff and store helper. Must know Tally basics."
+  },
+  {
+    "product": "StockSaathi",
+    "company": "MediPlus Pharmacy",
+    "website": "mediplus-pharma.test",
+    "contact_name": "Sanjay Patil",
+    "contact_role": "Proprietor",
+    "email": "sanjay@mediplus-pharma.test",
+    "industry": "Pharmacy",
+    "employees": 9,
+    "location": "Nashik, Maharashtra",
+    "page_text": "[home] MediPlus Pharmacy - 24 hour medical store, College Road Nashik. Medicines, surgical items, baby care. Home delivery on phone order. [about] 2 stores. Opening a third store near the civil hospital. Sometimes medicines go out of stock and we are struggling to track expiry dates manually."
+  },
+  {
+    "product": "StockSaathi",
+    "company": "TechWorld Electronics",
+    "website": "techworld-elec.test",
+    "contact_name": "Imran Khan",
+    "contact_role": "Store Manager",
+    "email": "imran@techworld-elec.test",
+    "industry": "Electronics retail",
+    "employees": 25,
+    "location": "Hyderabad, Telangana",
+    "page_text": "[home] TechWorld Electronics, Ameerpet. Mobiles, laptops, accessories, repairs. EMI available. [about] We have 4 outlets and use an ERP system for billing and inventory across all stores, integrated with our online store."
+  },
+  {
+    "product": "StockSaathi",
+    "company": "Annapurna Kirana Distributors",
+    "website": "annapurna-dist.test",
+    "contact_name": "Meena Joshi",
+    "contact_role": "Operations Head",
+    "email": "meena@annapurna-dist.test",
+    "industry": "FMCG distributor",
+    "employees": 40,
+    "location": "Indore, Madhya Pradesh",
+    "page_text": "[home] Annapurna Distributors - FMCG wholesale for 500+ kirana shops in Indore. [about] Recently raised funding from a local investor to add 2 new warehouses. Orders come on phone and WhatsApp and are noted in Excel. [careers] Open positions: warehouse supervisor, delivery boys, accounts executive."
+  }
+]

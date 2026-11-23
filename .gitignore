@@ -5,6 +5,9 @@
 # Data
 data/
 *.db
+# local agent sample data needs to be in repo
+!local_agent/data/
+local_agent/logs/
 
 # Python
 __pycache__/

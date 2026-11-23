@@ -1,0 +1,33 @@
+TaskNest Software Pvt Ltd - company information (internal doc)
+
+About us
+TaskNest is a small software company based in Pune, started in 2021. We are a team of 14 people.
+We make simple software for small businesses in India who are still running things on phone calls,
+WhatsApp and paper registers.
+
+Products
+
+1. BookEasy - online appointment booking
+BookEasy lets clinics, salons and service businesses take bookings online 24x7. Customers book from
+a link (can be shared on WhatsApp / Instagram / Google profile). Automatic SMS and WhatsApp reminders
+reduce no-shows. Staff calendar, multiple branches, simple reports.
+Pricing: Rs 1,499 per month per branch. 14 day free trial.
+Current customers: around 120 clinics and salons, mostly in Maharashtra and Karnataka.
+Customers tell us they get fewer missed calls and fewer no-shows. One dental clinic said reception
+staff saves around 2 hours a day.
+
+2. StockSaathi - inventory and billing for retail shops
+StockSaathi is a GST billing + inventory app for small retailers and distributors (hardware stores,
+pharmacies, electronics shops). Barcode billing, low stock alerts, supplier orders, works on Android
+and desktop, works offline and syncs later.
+Pricing: Rs 999 per month, or Rs 9,999 per year.
+Current customers: around 300 shops.
+
+What makes us different
+- Built for Indian small businesses (Hindi/Marathi UI, GST, WhatsApp)
+- Very simple, staff can learn in one day
+- Local support on phone in Hindi, English and Marathi
+- Cheaper than big ERP tools
+
+Brand voice
+Friendly and simple. We don't use big words. We talk like a helpful person, not a corporate.
