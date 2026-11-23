@@ -1,6 +1,13 @@
 # Harvey fork - Local AI Sales Agent (assignment)
 
-**My work for the assignment is in the [`local_agent/`](local_agent/) folder.** It runs fully on local Ollama + Qwen3, no paid LLM API. See [local_agent/README.md](local_agent/README.md) for setup, demo and offline test.
+**My work for the assignment is in the [`local_agent/`](local_agent/) folder.** It runs fully on local Ollama + Qwen3, no paid LLM API.
+
+- **Demo video** (full workflow + offline test with wifi off): https://drive.google.com/file/d/1k2TDKq6ltN5FmSoKrzijHBA2Lim1Oqh1/view?usp=sharing
+- **Setup, demo steps and offline test:** [local_agent/README.md](local_agent/README.md)
+- **Technical documentation:** [local_agent/docs/TECHNICAL_DOCUMENTATION.md](local_agent/docs/TECHNICAL_DOCUMENTATION.md)
+- **Cost, licences and known limitations:** [local_agent/docs/COST_AND_DEPENDENCIES.md](local_agent/docs/COST_AND_DEPENDENCIES.md)
+- **Test evidence** (screenshots, local model logs, sample outputs): [local_agent/docs/test_evidence/](local_agent/docs/test_evidence/)
+- **Live URL:** not deployed, the app runs locally (setup steps in the local_agent README)
 
 Below is the original README of the project.
 

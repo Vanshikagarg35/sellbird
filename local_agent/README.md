@@ -4,6 +4,8 @@ This is my submission for the local AI sales agent assignment. I forked Harvey (
 
 The original Harvey code uses Claude Code CLI or Codex for the AI part, so I did not use that part. The `local_agent` folder does not import anything from the `sellbird/` package, it is a separate app. I used Harvey's ideas (signals, ICP, writer, reply handler). Dashboard is made in React.
 
+**Demo video:** https://drive.google.com/file/d/1k2TDKq6ltN5FmSoKrzijHBA2Lim1Oqh1/view?usp=sharing
+
 ## What it does
 
 - Add multiple products (example: TaskNest has 2 products - BookEasy and StockSaathi)
