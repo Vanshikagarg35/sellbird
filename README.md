@@ -1,3 +1,11 @@
+# Harvey fork - Local AI Sales Agent (assignment)
+
+**My work for the assignment is in the [`local_agent/`](local_agent/) folder.** It runs fully on local Ollama + Qwen3, no paid LLM API. See [local_agent/README.md](local_agent/README.md) for setup, demo and offline test.
+
+Below is the original README of the project.
+
+---
+
 <p align="center">
   <a href="https://sellbird.ai">
     <picture>
